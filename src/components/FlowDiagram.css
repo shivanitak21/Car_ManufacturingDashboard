@@ -1,0 +1,25 @@
+.flow-diagram {
+  position: relative;
+}
+
+.main-button {
+  margin: 5px;
+  padding: 10px 15px; /* Adjust padding for button size */
+  width: 150px; /* Set a fixed width for all buttons */
+  background-color: #ff4d4d;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.main-button:hover {
+  background-color: #e0e0e0;
+}
+
+.line {
+  position: absolute;
+  width: 20px; /* Adjust the length of the line */
+  height: 1px; /* Adjust the thickness of the line */
+  background-color: #ccc; /* Default color */
+  z-index: -1;
+}

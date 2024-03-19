@@ -1,0 +1,33 @@
+{
+    "Start": {
+      "Research": {
+        "External": {
+          "B2C": {
+            "Online": "",
+            "Interview": "",
+            "Public Data": "",
+            "Health": ""
+          },
+          "B2B": ""
+        },
+        "Internal": ""
+      },
+      "Planning": {
+        "Specs": "",
+        "PRD": ""
+      },
+      "Designing": {
+        "Software": "",
+        "Hardware": ""
+      },
+      "Manufacturing": {
+        "Material": "",
+        "Production": ""
+      },
+      "Marketing/Sales": {
+        "Online": "",
+        "Dealership": ""
+      }
+    }
+  }
+  
