@@ -23,3 +23,13 @@
   background-color: #ccc; /* Default color */
   z-index: -1;
 }
+
+.details {
+  position: absolute;
+  background-color: #fff;
+  padding: 10px;
+  width: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

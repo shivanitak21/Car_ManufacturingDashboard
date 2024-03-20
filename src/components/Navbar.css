@@ -2,6 +2,7 @@
 
 .navbar {
     display: flex;
+    width: auto;
     justify-content: space-between;
     align-items: center;
     background-color: #333; /* Change background color as needed */
